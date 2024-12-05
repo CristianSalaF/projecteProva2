@@ -18,3 +18,23 @@ He escollit SearchClass.BinarySearch perquè cerca i retorna la posició, com de
 
 ### b
 He escollit FirstSort.Order perquè ordena de menor a major
+
+## Exercici 3
+> CMP -> 00 MOV-> 01 ADD -> 10  BEQ -> 11
+> Hex to bin by 4-bits: 
+> 8 4 2 1
+> (ho faig directe, transformant de cap el valor hex a decimal i d'allà a binari amb la "taula" de la linia a sobre)
+
+
+- CMP 3F, 45
+00 00111111, 01000101
+
+- MOV AE, 94
+01 10101110, 10010100
+
+
+- ADD 11, A3
+10 00010001, 10100011
+
+- MOV 8A, 77
+01 10001010, 01110111
