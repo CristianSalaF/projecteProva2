@@ -19,7 +19,7 @@ He escollit SearchClass.BinarySearch perquè cerca i retorna la posició, com de
 ### b
 He escollit FirstSort.Order perquè ordena de menor a major
 
-## Exercici 3
+## Exercici 4
 > CMP -> 00 MOV-> 01 ADD -> 10  BEQ -> 11
 > Hex to bin by 4-bits: 
 > 8 4 2 1
